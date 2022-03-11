@@ -1,0 +1,11 @@
+{
+  "ui": {
+    "app_name": "Base App"
+  },
+  "error": {
+    "error": "Có lỗi xảy ra. Vui lòng thử lại"
+  },
+  "message": {
+    "alert": "Thông báo"
+  }
+}
